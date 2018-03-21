@@ -1,1 +1,1 @@
-# patternsCreational
+# patternsStructural
